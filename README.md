@@ -47,12 +47,10 @@
 
 ---
 
-### 🏆 GitHub Achievements & Trophies
+### 📈 GitHub Contribution Activity Graph
 
 <div align="center">
-  <a href="https://github.com/imakashdey">
-    <img src="https://github-profile-trophy.vercel.app/?username=imakashdey&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imakashdey&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=E2E8F0&area=true&hide_border=true" alt="Akash's Activity Graph" width="100%" />
 </div>
 
 ---
