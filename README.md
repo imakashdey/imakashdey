@@ -97,6 +97,6 @@
 ---
 
 <div align="center">
-  <p>⭐ <i>Thanks for visiting my GitHub! Feel free to explore my repositories and reach out.</i> ⭐</p>
+  <p><i>"Thanks for visiting my GitHub! Feel free to explore my repositories and reach out."</i></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26,14,6&height=90&section=footer" width="100%" />
 </div>
