@@ -10,11 +10,12 @@
 
   <br/><br/>
 
-  <!-- Social Badges -->
+  <!-- Social Badges & Profile Views -->
   <a href="https://www.linkedin.com/in/akashdey2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/Akash_Dey_21" target="_blank"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
   <a href="https://www.facebook.com/Akash14.Nil/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="mailto:akashdey4123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=imakashdey&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -43,14 +44,6 @@
     <img src="https://img.shields.io/badge/CCNA-Networking%20Fundamentals-005073?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
     <img src="https://img.shields.io/badge/Full%20Stack-Roadmap%202026-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack" />
   </p>
-</div>
-
----
-
-### 📈 GitHub Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imakashdey&theme=tokyo-night&bg_color=0D1117&color=38BDF8&line=38BDF8&point=E2E8F0&area=true&hide_border=true" alt="Akash's Activity Graph" width="100%" />
 </div>
 
 ---
