@@ -48,16 +48,21 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Streak
 
 <div align="center">
+
+  <!-- Live GitHub Quick Badges -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=imakashdey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="Akash's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imakashdey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top Languages" />
+    <img src="https://img.shields.io/badge/GitHub-Active%20Developer-238636?style=for-the-badge&logo=github&logoColor=white" alt="Active Dev" />
+    <img src="https://img.shields.io/badge/Learning-React%20%26%20Full%20Stack-38BDF8?style=for-the-badge&logo=react&logoColor=black" alt="Learning React" />
   </p>
+
+  <!-- Streak Stats Card (Working perfectly) -->
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=imakashdey&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
   </p>
+
 </div>
 
 ---
