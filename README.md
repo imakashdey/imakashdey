@@ -3,9 +3,9 @@
   <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,14,26&height=220&section=header&text=Hi%20there,%20I'm%20Akash%20Dey%20👋&fontSize=38&fontAlignY=38&desc=BSc%20Graduate%20%7C%20Aspiring%20Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=58&descAlign=50&fontColor=ffffff" alt="Header Banner" width="100%" />
 
-  <!-- Animated Dynamic Typing -->
+  <!-- Animated Dynamic Typing (Fixed) -->
   <a href="https://github.com/imakashdey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=45&lines=🚀+Aspiring+Full+Stack+Developer;💻+Software+Engineering+Enthusiast;🎓+Recent+B.Sc.+Graduate;⚛️+Diving+Deep+into+React+%26+Modern+Web;🌐+Networking+%26+CCNA+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&height=40&lines=Aspiring+Full+Stack+Developer;Software+Engineering+Enthusiast;Recent+B.Sc.+Graduate;Diving+Deep+into+React+%26+Modern+Web;Networking+%26+CCNA+Explorer" alt="Typing SVG" />
   </a>
 
   <br/><br/>
